@@ -4,8 +4,8 @@ Links and documents for studying
 ## Api Test
 
 * Drive - Guia Conceitual 04 - API for Dummies
-* * [Drive - Guia Conceitual 04 - API for Dummies.pdf](https://drive.google.com/file/d/1AI2V8iBHuV9yV3Sl9CFjbJ1Of6m9O3g9/view)
-* * [apigee - Guia Conceitual 04 - API for Dummies](https://apigee.com/about/blog/digital-business/apis-dummies-apigee-special-edition)
+  * [Drive - Guia Conceitual 04 - API for Dummies.pdf](https://drive.google.com/file/d/1AI2V8iBHuV9yV3Sl9CFjbJ1Of6m9O3g9/view)
+  * [apigee - Guia Conceitual 04 - API for Dummies](https://apigee.com/about/blog/digital-business/apis-dummies-apigee-special-edition)
 
 ## UI Testing
 
