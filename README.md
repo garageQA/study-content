@@ -4,7 +4,7 @@ Links and documents for studying
 ## Api Testing
 
 * [apigee - Guia Conceitual 04 - API for Dummies](https://apigee.com/about/blog/digital-business/apis-dummies-apigee-special-edition)
-* [RESTful](https://restfulapi.net/)
+* [REST API Tutorial](https://restfulapi.net/)
 
 ## UI Testing
 
