@@ -8,3 +8,7 @@ Links and documents for studying
 
 ### Design Patterns for Automation
 * [Código Limpo e Refatoração em Javascript](https://talkingabouttesting.com/2016/11/01/refatoracao-de-codigo-javascript-e-codigo-limpo/)
+
+### UI Testing in Xcode
+
+https://developer.apple.com/videos/play/wwdc2015/406/
