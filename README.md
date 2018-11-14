@@ -1,5 +1,5 @@
 # STUDY CONTENT
-links and documents for studying
+Links and documents for studying
 
 
 ### Api Test
